@@ -42,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/diyafathima8090/leetcode/tree/master/0035-search-insert-position) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/diyafathima8090/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/diyafathima8090/leetcode/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/diyafathima8090/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
