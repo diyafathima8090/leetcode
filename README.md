@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/diyafathima8090/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/diyafathima8090/leetcode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/diyafathima8090/leetcode/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/diyafathima8090/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/diyafathima8090/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/diyafathima8090/leetcode/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/diyafathima8090/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
