@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/diyafathima8090/leetcode/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/diyafathima8090/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/diyafathima8090/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2129-capitalize-the-title](https://github.com/diyafathima8090/leetcode/tree/master/2129-capitalize-the-title) |
 ## Bit Manipulation
 |  |
 | ------- |
