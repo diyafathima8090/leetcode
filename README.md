@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/diyafathima8090/leetcode/tree/master/0035-search-insert-position) |
+| [1470-shuffle-the-array](https://github.com/diyafathima8090/leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/diyafathima8090/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/diyafathima8090/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/diyafathima8090/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
