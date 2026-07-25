@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/diyafathima8090/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/diyafathima8090/leetcode/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/diyafathima8090/leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/diyafathima8090/leetcode/tree/master/1528-shuffle-string) |
@@ -81,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/diyafathima8090/leetcode/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/diyafathima8090/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
